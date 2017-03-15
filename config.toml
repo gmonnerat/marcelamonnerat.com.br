@@ -1,2 +1,8 @@
 baseurl = "https://www.marcelamonnerat.com.br"
-theme = "basic"
+theme = "theme"
+title = "Marcela Monnerat Estética Avançada"
+
+[author]
+  name = "Marcela Monnerat"
+  instagram = "marcela.monnerat"
+  facebook = ""
