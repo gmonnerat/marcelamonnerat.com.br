@@ -1,0 +1,235 @@
+/*!
+ * Start Bootstrap - Modern Business (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+/* Global Styles */
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.img-portfolio {
+    margin-bottom: 30px;
+}
+
+.img-hover:hover {
+    opacity: 0.8;
+}
+
+/* Home Page Carousel */
+
+header.carousel {
+    height: 50%;
+}
+
+header.carousel .item,
+header.carousel .item.active,
+header.carousel .carousel-inner {
+    height: 100%;
+}
+
+header.carousel .fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+/* 404 Page Styles */
+
+.error-404 {
+    font-size: 100px;
+}
+
+/* Pricing Page Styles */
+
+.price {
+    display: block;
+    font-size: 50px;
+    line-height: 50px;
+}
+
+.price sup {
+    top: -20px;
+    left: 2px;
+    font-size: 20px;
+}
+
+.period {
+    display: block;
+    font-style: italic;
+}
+
+.procedure .img-portfolio {
+   border-radius: 1%;
+   height: 319px;
+   width: 100%;
+}
+
+/* Footer Styles */
+
+
+@media(max-width:991px) {
+    .customer-img,
+    .img-related {
+        margin-bottom: 30px;
+    }
+
+}
+
+@media(max-width:767px) {
+  .footer-container hr {
+    border-top: 1px solid #907b63;
+    width: 15%;
+  }
+}
+
+@media(max-width:767px) {
+    .img-portfolio {
+        margin-bottom: 15px;
+    }
+
+    header.carousel .carousel {
+        height: 70%;
+    }
+    .navbar-brand {
+      font-size: 11pt;
+    }
+}
+
+.navbar-inverse .navbar-toggle, .navbar-inverse, .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+  border-color: #907b63;
+}
+
+.navbar-inverse .navbar-toggle:focus,
+ .navbar-inverse .navbar-toggle:hover,
+ .navbar-inverse .navbar-collapse,
+ .navbar-inverse .navbar-form {
+  background-color: #907b63;
+}
+
+.navbar-inverse, .panel-default>.panel-heading {
+  background: #907b63;
+}
+
+.panel-default>.panel-heading, .navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav>li>a {
+  color: #FFF;
+  font-family: 'ABeeZee', sans-serif;
+}
+
+.page-header {
+  border-bottom: 1px solid #EAE6D7;
+  font-family: 'ABeeZee', sans-serif;
+}
+
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-nav>li>a:hover {
+  color: #FFF;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+  font-weight: bold;
+}
+
+.copyright-wrapper {
+  background-color: #907b63;
+  color: #FFF;
+}
+
+.copyright-wrapper > .container{
+  padding-top: 10px;
+}
+
+.footer-container {
+  min-height: 18em;
+  padding-top: 3em;
+  margin: 2em auto;
+}
+
+.footer-wrapper {
+  background-color: #EAE6D7;
+  color: #907b63;
+}
+
+.textwidget p:first-child {
+  font-size: 2em;
+  text-transform: uppercase;
+}
+
+.textwidget p {
+  margin: 0 0 21px;
+}
+
+.three {
+  text-align: center;
+}
+
+.columns {
+  float: left;
+  position: relative;
+  min-height: 1px;
+}
+
+.architect-font {
+  font-family: 'Architects Daughter', cursive;
+}
+
+.fa-4 {
+  font-size: 5em !important;
+}
+
+.fa-4, .textwidget a {
+  color: #907b63;
+}
+
+.textwidget a:hover {
+  font-weight: bold;
+  text-decoration: none;
+  color: #907b63;
+}
+
+.urun-title {
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  z-index: 15;
+  padding-top: 15px;
+  padding-bottom: 5px;
+  color: #000;
+  background-color: #FFF;
+  width: 50%;
+  font-size: 25px;
+  left: 24%;
+}
+
+.urun-title a {
+ color: #000;
+ text-decoration: none;
+ font-family: "ABeeZee", sans-serif;
+}
+
+.box {
+  margin-top: 3em;
+}
+
+.procedure-box {
+   position: relative;
+}
+
+.urun-title > hr {
+  margin: 0 auto;
+  width: 30%;
+  border-bottom: 1px solid #000;
+  padding-top: 6px;
+}
+
+.post p {
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
