@@ -100,7 +100,7 @@ header.carousel .fill {
         height: 70%;
     }
     .navbar-brand {
-      font-size: 11pt;
+      font-size: 85%;
     }
 }
 
@@ -204,7 +204,7 @@ header.carousel .fill {
   color: #000;
   background-color: #FFF;
   width: 50%;
-  font-size: 151%;
+  font-size: 117%;
   left: 24%;
 }
 
@@ -232,4 +232,8 @@ header.carousel .fill {
 .post p {
   font-size: 20px;
   font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-brand {
+  padding: 15px 0px 0px 17px;
 }
