@@ -237,3 +237,8 @@ header.carousel .fill {
 .navbar-brand {
   padding: 15px 0px 0px 17px;
 }
+
+iframe {
+	border: 0;
+	max-width: 100%;
+}
