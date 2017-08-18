@@ -3,6 +3,7 @@ date = "2017-03-21T14:01:03Z"
 title = "Mesoterapia Facial"
 type = "procedimento"
 image = "img/mesoterapia-facial.jpg"
+weight = 3
 +++
 
 Com o passar dos anos, nosso organismo tende a sofrer um desgaste e com isso gerando alterações no seu funcionamento. Fora essa degradação inevitável que é causado com a idade e que é comum aos órgãos (fatores intrínsecos), existe ainda o fotoenvelhecimento que é causado pela radiação solar, tabagismo e má alimentação (fatores extrínsecos),   fatores estes, que contribuem negativamente para os sinais de envelhecimento.

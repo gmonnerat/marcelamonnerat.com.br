@@ -3,6 +3,7 @@ date = "2017-03-21T14:01:18Z"
 title = "Toxina botulínica"
 type = "procedimento"
 image = "img/botox.jpg"
+weight = 1
 +++
 
 As rugas são sinônimas de incômodo na vida de muitas mulheres. O Botox (toxina botulínica) é uma das soluções tanto para eliminação das rugas já existentes, quanto para a sua prevenção, pois ele atua impedindo que os músculos faciais que dão origem as rugas se contraem causando um relaxamento muscular e eliminado ou evitando e suavizando as linhas de expressão.

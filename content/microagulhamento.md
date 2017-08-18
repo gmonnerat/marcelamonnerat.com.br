@@ -3,6 +3,7 @@ date = "2017-06-21T23:10:55-03:00"
 title = "Microagulhamento"
 type = "procedimento"
 image = "img/microagulhamento.jpg"
+weight = 7
 +++
 
 O microagulhamento, consiste no estímulo mecânico de produção de colágeno através de um roler ou caneta com pequenas agulhas que tem como objetivo causar micro-lesões.

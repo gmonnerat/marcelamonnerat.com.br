@@ -3,6 +3,7 @@ date = "2017-03-14T18:05:58-03:00"
 title = "Radiofrequência"
 type = "procedimento"
 image = "img/radiofrequencia.jpg"
+weight = 8
 +++
 
 A radiofrequência é um método de tratamento aliado no combate à flacidez tissular, tanto facial quanto corporal. Sabemos que a partir dos 25 anos, nosso organismo começa a diminuir a produção de colágeno, o que acaba intensificando o envelhecimento.
