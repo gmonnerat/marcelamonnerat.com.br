@@ -42,7 +42,7 @@ title = "Contato"
   </div>
   <hr class="visible-xs-block"/>
   <div class="col-md-6 col-sm-6">
-    <div class="contact-phone-header visible-md-block visible-lg-block">
+    <div class="contact-phone-header hidden-xs">
       <div>
         <p class="hidden-xs"><strong>Telefone:</strong><br>+55 21 97236-7871</p>
         <p class="visible-xs-block"><strong>Telefone:</strong><br><a href="tel:+55 21 97236-7871">+55 21 97236-7871</a></p>
