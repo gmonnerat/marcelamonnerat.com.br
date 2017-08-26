@@ -5,7 +5,7 @@ title = "Contato"
 +++
 <div class="row">
   <div class="col-md-6 col-sm-6">
-    <div id="contact_form">
+    <div>
       <p>Entre em contato conosco</p>
       <div class="contact-phone-header visible-xs-block">
         <div>
@@ -14,7 +14,7 @@ title = "Contato"
           <p class="visible-xs-block"><strong>Ou envie-nos uma mensagem:</strong></p>
         </div>
       </div>
-      <div>
+      <div id="contact_form">
         <form role="form" id="contactForm" method="POST">
           <div class="form-group">
             <label for="name">Nome</label>
