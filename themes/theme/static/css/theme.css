@@ -242,3 +242,21 @@ iframe {
 	border: 0;
 	max-width: 100%;
 }
+
+.contact-phone-header {
+  text-align: center;
+}
+
+.contact-phone-header p {
+  font-size: 14px;
+}
+
+.contact-phone-header a {
+  color: #333;
+}
+
+.contact-phone-header a:hover {
+  color: #333;
+  font-weight: bold;
+  text-decoration: none;
+}
